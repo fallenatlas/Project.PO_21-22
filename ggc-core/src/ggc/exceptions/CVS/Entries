@@ -1,0 +1,16 @@
+/BadEntryException.java/1.1/Sun Sep 26 14:44:29 2021//
+/DuplicatePartnerIdException.java/1.2/Thu Nov 11 16:55:41 2021//
+/ImportFileException.java/1.1/Sun Sep 26 14:44:29 2021//
+/InvalidDaysToAdvanceException.java/1.2/Thu Nov 11 16:55:41 2021//
+/MissingFileAssociationException.java/1.1/Sun Sep 26 14:44:29 2021//
+/NotEnoughBatchesException.java/1.2/Thu Nov 11 16:55:41 2021//
+/OperationUnsupportedException.java/1.2/Thu Nov 11 16:55:41 2021//
+/PartnerNotFoundException.java/1.2/Thu Nov 11 16:55:41 2021//
+/ProductNotFoundException.java/1.2/Thu Nov 11 16:55:41 2021//
+/ProductNotProducibleException.java/1.2/Thu Nov 11 16:55:41 2021//
+/ProductUnavailableException.java/1.4/Thu Nov 11 16:55:41 2021//
+/SaleAlreadyPaidException.java/1.2/Thu Nov 11 16:55:41 2021//
+/SaleNotFoundException.java/1.2/Thu Nov 11 16:55:41 2021//
+/TransactionNotFoundException.java/1.2/Thu Nov 11 16:55:41 2021//
+/UnavailableFileException.java/1.1/Sun Sep 26 14:44:29 2021//
+D

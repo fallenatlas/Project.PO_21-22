@@ -1,0 +1,20 @@
+package ggc.app.lookups;
+
+import ggc.WarehouseManager;
+
+/** Lookups menu. */
+public class Menu extends pt.tecnico.uilib.menus.Menu {
+
+  /** @param receiver command executor */
+  public Menu(WarehouseManager receiver) {
+    super(Label.TITLE, //
+        new DoLookupProductBatchesUnderGivenPrice(receiver), //
+        new DoLookupPaymentsByPartner(receiver), //
+        new DoLookupProductWithLeastAmountOfStock(receiver),
+        new DoLookupPartnerWithLeastAcquisitionsValue(receiver),
+        new DoLookupProductWithLeastTotalPrice(receiver),
+        new DoLookupPartnerWithMostSalesValue(receiver)
+    );
+  }
+
+}
